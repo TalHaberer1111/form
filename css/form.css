@@ -1,0 +1,13 @@
+#story {
+  display: none;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+}
+
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/James_Campbell_-_News_from_My_Lad_-_Google_Art_Project.jpg/1280px-James_Campbell_-_News_from_My_Lad_-_Google_Art_Project.jpg);
+  color: inherit;
+}
